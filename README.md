@@ -28,6 +28,7 @@ The predictive modeling pipeline was built using Python and scikit-learn, and in
 * **Modeling**
 
   * `LinearRegression` from `sklearn.linear_model`
+  * Additional models used for comparision (i.e. Random Forest, SVR, KNN).
   * `KFold` cross-validation (10-fold) for model evaluation.
 
 * **Evaluation Metrics**
